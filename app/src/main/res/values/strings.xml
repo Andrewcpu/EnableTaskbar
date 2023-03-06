@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnableTaskbar</string>
+    <string name="xposed_description">EnableTaskbar enables the taskbar on non-tablet devices.</string>
+    <string-array name="scope">
+        <item>android</item>
+        <item>com.google.android.apps.nexuslauncher</item>
+        <item>com.android.systemui</item>
+    </string-array>
+</resources>
